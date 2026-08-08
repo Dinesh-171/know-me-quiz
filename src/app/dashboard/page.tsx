@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { Sparkles, BarChart3, ArrowRight, Eye, Plus, Search, ShieldCheck } from 'lucide-react';
+import { Sparkles, BarChart3, ArrowRight, Eye, Plus, Search, ShieldAlert } from 'lucide-react';
 
 interface SavedQuiz {
   quizId: string;
